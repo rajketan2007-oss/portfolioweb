@@ -1,0 +1,14 @@
+{
+  "name": "pritam-dutta-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio website for Pritam Dutta — Entrepreneur, Founder & Business Builder",
+  "scripts": {
+    "dev": "vite --host --port 5173",
+    "build": "vite build",
+    "preview": "vite preview --port 5173"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
